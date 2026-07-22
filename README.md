@@ -11,7 +11,6 @@ An end-to-end analytics pipeline designed to extract, process, and visualize mac
 ## 🚀 Key Features
 * **Integrated Data Pipeline:** Seamlessly pulls live economic data from the Federal Reserve Economic Data (FRED) API.
 * **Strategic Visualization:** Transforms raw JSON/CSV data into actionable insights and trend analysis.
-* **Forecasting:** [Briefly describe the forecasting method you used, e.g., Time-series forecasting to predict X over Y period].
 
 ## 💻 How to Run Locally
 1. Clone the repository: `git clone https://github.com/hasanbhujwala/Market-Intelligence-and-Forecasting-Pipeline.git`
